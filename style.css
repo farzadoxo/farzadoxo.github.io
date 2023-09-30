@@ -1,5 +1,7 @@
 #welcomer{
-    color:coral;
+    color:lightseagreen;
+    font:small-caption;
+    font-size: 40px;
 }
 
 #update{
@@ -11,5 +13,5 @@
 }
 
 .liner{
-    color: red;
+    color: coral;
 }
