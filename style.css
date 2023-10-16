@@ -1,17 +1,47 @@
 #welcomer{
-    color:lightseagreen;
-    font:small-caption;
-    font-size: 40px;
+    color:cornflowerblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    cursor: text;
+    text-shadow: 10px 10px 7px;
+    text-align: center;
 }
 
-#update{
-    color:darkviolet;
+#main{
+    width: 700px;
+    height: 685px;
+    border: 5px gray solid;
+    border-radius: 30px;
 }
 
-#made{
-    color: green;
+#me{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    cursor:pointer;
 }
 
-.liner{
-    color: coral;
+#about_title{
+    text-align: center;
+    padding: 15px;
+    color: blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#made_with{
+    text-align: center;
+    font-family:monospace;
+    font-size: 15px;
+}
+
+#about{
+    font-family:cursive;
+    font-size: 15px;
+    line-height: 30px;
+
+}
+
+#bye{
+    font-family:cursive;
 }
