@@ -1,5 +1,6 @@
+
 #welcomer{
-    color:cornflowerblue;
+    color: #7289da;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: normal;
     font-size: 50px;
@@ -11,8 +12,9 @@
 #main{
     width: 700px;
     height: 685px;
-    border: 5px gray solid;
+    border: 5px white solid;
     border-radius: 30px;
+    color: white;
 }
 
 #me{
@@ -27,15 +29,17 @@
 #about_title{
     text-align: center;
     padding: 15px;
-    color: blueviolet;
+    color: rgb(250, 172, 48);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: inline-block;
+    cursor:default;
 }
 
 #made_with{
     text-align: center;
     font-family:monospace;
     font-size: 15px;
+    color: white;
 }
 
 #about{
