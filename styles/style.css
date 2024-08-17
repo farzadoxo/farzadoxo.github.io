@@ -1,58 +1,24 @@
-
-#welcomer{
-    color: #7289da;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: normal;
-    font-size: 50px;
-    cursor: text;
-    text-shadow: 10px 10px 7px;
-    text-align: center;
-}
-
 #main{
-    width: 700px;
-    height: 685px;
-    border: 5px white solid;
-    border-radius: 30px;
-    color: white;
+    width: 40%;
+    background-color: blue;
+    height: 800pt;
+    display:inline-block;
+    
 }
 
-#me{
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    cursor:pointer;
+#pic{
+    width: 60%;
+    background-color: red;
+    height: 500pt;
     display: block;
-    cursor:grab;
-}
-
-#about_title{
-    text-align: center;
-    padding: 15px;
-    color: rgb(250, 172, 48);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: inline-block;
-    cursor:default;
-}
-
-#made_with{
-    text-align: center;
-    font-family:monospace;
-    font-size: 15px;
-    color: white;
+    float: right;
 }
 
 #about{
-    font-family:cursive;
-    font-size: 15px;
-    line-height: 30px;
-
-}
-
-#bye{
-    font-family:cursive;
-}
-
-#about_title:hover{
-    color: chartreuse;
+    top: 10%;
+    text-align: center;
+    align-items: center;
+    width:50px;
+    background-color: yellow;
+    height: 30px;
 }
