@@ -57,7 +57,7 @@ a:hover {
 }
 
 header {
-    background-color: #eee;
+    background-color: #e0e6f0;
     width: 100%;
     height: 145px;
     padding-top: 30pt;
@@ -211,7 +211,7 @@ header .neck {
 footer {
     background-color: #eee;
     text-align: center;
-    font-size: 8pt;
+    font-size: 10pt;
     padding-top: 10px;
     padding-bottom:2pt;
     width: 100%;
